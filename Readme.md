@@ -7,7 +7,11 @@ In which  diffrent diffrent fishes images along with there short discription abo
 ## Screenshots
 ![Marine-explorere](output.png)
 
+## contributors
 
+<a href="https://github.com/Surbhi-Patle-11/New-pro-ject/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Surbhi-Patle-11/New-pro-ject" />
+</a>
 
 
 
